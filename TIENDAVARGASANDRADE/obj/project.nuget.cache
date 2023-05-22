@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ej4Pzz/idG9+i25YX0Gigi2AI9ADv0TVwDMLWPccSz03pK9jpCEYSCSlqqGwgPzc0ThKS9kj4jsppSe/qHMWjg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Upqroo\\OneDrive - Universidad Politécnica de Quintana Roo\\Documentos\\__history\\TIENDAVARGASANDRADE\\TIENDAVARGASANDRADE.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Upqroo\\.nuget\\packages\\spectre.console\\0.47.0\\spectre.console.0.47.0.nupkg.sha512",
+    "C:\\Users\\Upqroo\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}
